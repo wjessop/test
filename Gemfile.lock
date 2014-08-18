@@ -1,0 +1,14 @@
+PATH
+  remote: .
+  specs:
+    testtestytest (1)
+
+GEM
+  remote: https://geminabox.37signals.com/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  testtestytest!
