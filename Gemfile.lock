@@ -1,10 +1,10 @@
 PATH
   remote: .
   specs:
-    testtestytest (1)
+    testtestytest (1.0.10)
 
 GEM
-  remote: https://geminabox.37signals.com/
+  remote: https://gems:mai9welv6on7is6z@geminabox.37signals.com/
   specs:
 
 PLATFORMS
@@ -12,3 +12,6 @@ PLATFORMS
 
 DEPENDENCIES
   testtestytest!
+
+BUNDLED WITH
+   1.12.5
